@@ -31,10 +31,8 @@ _______________
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 100 million customers:
 
 
- - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx) 
- - [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx)
- - [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)
- - [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
+ - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  - [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx)
+ - [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  - [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
 
 
 _______________
