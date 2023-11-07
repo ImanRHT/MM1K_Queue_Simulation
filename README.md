@@ -38,6 +38,7 @@
 
 - Krishna, Kant, "[Introduction to computer system performance evaluation]([https://ieeexplore.ieee.org/abstract/document/9253665](http://repository.bitscollege.edu.et:8080/handle/123456789/311))" International Edition, 1992.
 
+- M. Tang and V. W. Wong, "[Deep reinforcement learning for task offloading in mobile edge computing systems](https://ieeexplore.ieee.org/abstract/document/9253665)", IEEE Transactions on Mobile Computing, Nov 2020.
 
 
 ## Contribute
