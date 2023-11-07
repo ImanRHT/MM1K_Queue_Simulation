@@ -16,10 +16,8 @@
 
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 300 million customers:
 
- - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx)
- - [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx)
- - [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) 
- - [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
+ - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) - [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx)
+ - [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) - [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
   
   
 _______________
@@ -44,8 +42,7 @@ _______________
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 1 and 10 million customers:
 
 
- - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) 
- - [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx)
+ - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) - [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx)
  - [DPS_K12_thetaExp_10M](DPS_K12_thetaExp_10M.xlsx)
 
 
