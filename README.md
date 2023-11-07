@@ -7,35 +7,27 @@
 [![GitHub issues](https://img.shields.io/github/issues/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/issues) 
 [![GitHub license](https://img.shields.io/github/license/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/blob/master/LICENSE) 
 
-
+This repository contains a simulation of the M/M/1/K queue model, a classic queuing theory concept commonly used in the analysis of computer systems and network performance. These simulations are designed to analyze the performance of these queues under different scenarios.
 
 ## Contents
 
 ### FCFS Service Order 
 - [FCFS_Simulation.py](FCFS_Simulation.py): 
 
-Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 300 million customers:
- - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx), [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
-  
-  
-_______________
-  
 ### Processor Sharing Service Order 
 - [PS_Simulation.py](PS_Simulation.py): 
 
-Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 100 million customers:
- - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx),  [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
-
-
-_______________
-   
 ### Discriminatory Processor Sharing Service Order 
 - [DPS_Simulation.py](DPS_Simulation.py): 
 
-Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 1 and 10 million customers:
- - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) , [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx),  [DPS_K12_thetaExp_10M](DPS_K12_thetaExp_10M.xlsx)
+Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under different customer loads are available in the following files:
 
 
+ - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx), [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
+ 
+  - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx),  [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
+  
+   - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) , [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx),  [DPS_K12_thetaExp_10M](DPS_K12_thetaExp_10M.xlsx)
   
 
 ## References
