@@ -13,9 +13,7 @@
 
 ### FCFS Service Order 
 - [FCFS_Simulation.py](FCFS_Simulation.py): 
-
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 300 million customers:
-
  - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx)
  - [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
   
@@ -23,12 +21,8 @@ Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 
 _______________
   
 ### Processor Sharing Service Order 
-
 - [PS_Simulation.py](PS_Simulation.py): 
-
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 and 100 million customers:
-
-
  - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx)
  - [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
 
@@ -36,12 +30,8 @@ Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 10 
 _______________
    
 ### Discriminatory Processor Sharing Service Order 
-
 - [DPS_Simulation.py](DPS_Simulation.py): 
-
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under 1 and 10 million customers:
-
-
  - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) , [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx)
  - [DPS_K12_thetaExp_10M](DPS_K12_thetaExp_10M.xlsx)
 
