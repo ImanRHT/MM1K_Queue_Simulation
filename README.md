@@ -13,8 +13,6 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 
 - [FCFS_Simulation.py](FCFS_Simulation.py): FCFS Service Order 
 
-[FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx), [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
-
 
 - [PS_Simulation.py](PS_Simulation.py): Processor Sharing Service Order 
 
@@ -24,7 +22,7 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under different customer loads are available in the following files:
 
 
- 
+ - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx), [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx)
  
   - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx),  [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
   
