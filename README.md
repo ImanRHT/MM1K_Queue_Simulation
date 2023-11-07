@@ -34,11 +34,9 @@
 
 ## References
 
-- Mor. Harchol-Balter, “[Performance modeling and design of computer systems: queueing theory in action]()", Cambridge University Press, 2013.
+- Mor. Harchol-Balter, “[Performance modeling and design of computer systems: queueing theory in action](https://books.google.de/books?hl=en&lr=&id=y1cgAwAAQBAJ&oi=fnd&pg=PR17&dq=M.+Harchol-Balter,+Performance+Modeling+and+Design+of+Computer+Systems,+Cambridge+University+Presss&ots=fyMxIXzywD&sig=r1Ez9ftmSQJsiU9qGxHaQ_K1ZI8&redir_esc=y#v=onepage&q=M.%20Harchol-Balter%2C%20Performance%20Modeling%20and%20Design%20of%20Computer%20Systems%2C%20Cambridge%20University%20Presss&f=false)", Cambridge University Press, 2013.
 
 - Krishna. Kant, "[Introduction to computer system performance evaluation](http://repository.bitscollege.edu.et:8080/handle/123456789/311)" International Edition, 1992.
-
-- M. Tang and V. W. Wong, "[Deep reinforcement learning for task offloading in mobile edge computing systems](https://ieeexplore.ieee.org/abstract/document/9253665)", IEEE Transactions on Mobile Computing, Nov 2020.
 
 
 ## Contribute
