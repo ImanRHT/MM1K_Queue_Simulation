@@ -11,14 +11,13 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 
 ## Contents
 
-### FCFS Service Order 
-- [FCFS_Simulation.py](FCFS_Simulation.py): 
+- [FCFS_Simulation.py](FCFS_Simulation.py): FCFS Service Order 
 
-### Processor Sharing Service Order 
-- [PS_Simulation.py](PS_Simulation.py): 
 
-### Discriminatory Processor Sharing Service Order 
-- [DPS_Simulation.py](DPS_Simulation.py): 
+- [PS_Simulation.py](PS_Simulation.py): Processor Sharing Service Order 
+
+
+- [DPS_Simulation.py](DPS_Simulation.py): Discriminatory Processor Sharing Service Order 
 
 Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under different customer loads are available in the following files:
 
