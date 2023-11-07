@@ -30,7 +30,17 @@
 - [DDQN_torch.py](DDQN_torch.py): Double deep Q network implementation using [PyTorch](https://pytorch.org/get-started/locally/).
 - [Config.py](Config.py): Configuration file for MEC entities and neural network setup.
 
+  
+
+## Primary References
+
+- Mor, Harchol-Balter, “[Performance modeling and design of computer systems: queueing theory in action]([https://ieeexplore.ieee.org/document/8360511](https://books.google.de/books?hl=en&lr=&id=y1cgAwAAQBAJ&oi=fnd&pg=PR17&dq=M.+Harchol-Balter,+Performance+Modeling+and+Design+of+Computer+Systems,+Cambridge+University+Presss&ots=fyMxIXzywD&sig=r1Ez9ftmSQJsiU9qGxHaQ_K1ZI8&redir_esc=y#v=onepage&q=M.%20Harchol-Balter%2C%20Performance%20Modeling%20and%20Design%20of%20Computer%20Systems%2C%20Cambridge%20University%20Presss&f=false)), Cambridge University Press, 2013.
+
+- Krishna, Kant, "[Introduction to computer system performance evaluation]([https://ieeexplore.ieee.org/abstract/document/9253665](http://repository.bitscollege.edu.et:8080/handle/123456789/311))" International Edition, 1992.
+
 
 
 ## Contribute
-If you have an issue or found a bug, please raise a GitHub issue [here](https://github.com/ImanRht/QOCO/issues). Pull requests are also welcome.
+If you have an issue or found a bug, please raise a GitHub issue [here](https://github.com/ImanRht/MM1K_Queue_Simulation/issues). Pull requests are also welcome.
+
+
