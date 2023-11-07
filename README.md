@@ -11,7 +11,7 @@
 
 ## Contents
 
-## FCFS Service Order M/M/1/K Queue
+### FCFS Service Order M/M/1/K Queue
 
 - [main.py](main.py): The main code, including training and testing structures, implemented using [Tensorflow 1.x](https://www.tensorflow.org/install/pip).
 - [MEC_Env.py](MEC_Env.py): Contains the code for the mobile edge computing environment.
