@@ -14,8 +14,13 @@
 ### FCFS Service Order M/M/1/K Queue
 
 - [FCFS_Simulation.py](FCFS_Simulation.py): 
-Evaluation:
+
+_______________
+
 - [FCFS_K12_thetaExp_10M](FCFS_K12_thetaExp_10M.xlsx): 
+- [FCFS_K12_thetaExp_300M](FCFS_K12_thetaExp_300M.xlsx): 
+- [FCFS_K12_thetaFixed_10M](FCFS_K12_thetaFixed_10M.xlsx): 
+- [FCFS_K12_thetaFixed_300M](FCFS_K12_thetaFixed_300M.xlsx): 
   
 ### Processor Sharing Service Order M/M/1/K Queue
 
