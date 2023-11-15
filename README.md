@@ -1,11 +1,11 @@
 # M/M/1/K Queue Simulation
 
-[![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/QOCO)](https://github.com/ImanRht/QOCO/releases)
-![GitHub repo size](https://img.shields.io/github/repo-size/ImanRht/QOCO)
-[![GitHub stars](https://img.shields.io/github/stars/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/network/members) 
-[![GitHub issues](https://img.shields.io/github/issues/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/issues) 
-[![GitHub license](https://img.shields.io/github/license/ImanRht/QOCO?style=social)](https://github.com/ImanRht/QOCO/blob/master/LICENSE) 
+[![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/MM1K_Queue_Simulation)](https://github.com/ImanRht/MM1K_Queue_Simulation/releases)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImanRht/MM1K_Queue_Simulation)
+[![GitHub stars](https://img.shields.io/github/stars/ImanRht/MM1K_Queue_Simulation?style=social)](https://github.com/ImanRht/MM1K_Queue_Simulation/stargazers) 
+[![GitHub forks](https://img.shields.io/github/forks/ImanRht/MM1K_Queue_Simulation?style=social)](https://github.com/ImanRht/MM1K_Queue_Simulation/network/members) 
+[![GitHub issues](https://img.shields.io/github/issues/ImanRht/MM1K_Queue_Simulation?style=social)](https://github.com/ImanRht/MM1K_Queue_Simulation/issues) 
+[![GitHub license](https://img.shields.io/github/license/ImanRht/MM1K_Queue_Simulation?style=social)](https://github.com/ImanRht/MM1K_Queue_Simulation/blob/master/LICENSE) 
 
 This repository contains a simulation of the M/M/1/K queue model, a classic queuing theory concept commonly used in the analysis of computer systems and network performance. These simulations are designed to analyze the performance of these queues under different scenarios.
 
