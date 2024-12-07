@@ -38,9 +38,6 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 
 ## Processor Sharing Service Order (Round Robin Scheduling)
 
-**Description:**  
-This homework involves the analysis of the Round Robin scheduling algorithm within a queue system. It focuses on understanding how the Round Robin mechanism affects performance.
-
 **Key Aspects Covered:**
 - **Round Robin Scheduling:** Examination of the algorithm's performance in managing queues.
 - **Performance Metrics:** Analysis of average wait time and throughput under different configurations.
