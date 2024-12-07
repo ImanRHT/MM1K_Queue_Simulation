@@ -61,7 +61,7 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 
 ## Contents
 
-- [FCFS_Simulation.py](FCFS_Simulation.py): FCFS Service Order 
+- [FCFS_ServiceOrder/FCFS_Simulation.py](FCFS_Simulation.py): FCFS Service Order 
 
 
 - [PS_Simulation.py](PS_Simulation.py): Processor Sharing Service Order 
