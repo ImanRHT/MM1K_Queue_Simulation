@@ -1,4 +1,11 @@
-# M/M/1/K Queue Simulation
+
+# ComputerPerformanceEvaluation
+Instructed by Prof. Ali Movaghar from the Department of Computer Engineering, Sharif University of Technology.
+Course material: 
+
+## M/M/1/K Queue Performance Analysis
+
+
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/MM1K_Queue_Simulation)](https://github.com/ImanRht/MM1K_Queue_Simulation/releases)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImanRht/MM1K_Queue_Simulation)
