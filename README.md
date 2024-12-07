@@ -48,17 +48,14 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
  
 ## Discriminatory Processor Sharing Service Order 
 
-## Theoretical Analysis
- involves detailed questions and answers related to queue systems. It aims to test understanding of queueing theory concepts and their applications.
-
 **Key Aspects Covered:**
-- **Theoretical Questions:** A set of questions designed to explore various aspects of queueing theory.
-- **Solutions:** Detailed answers and explanations for each question, providing insights into the theoretical aspects of queue systems.
-
----
-
-For further details on each homework, please refer to the corresponding files in this repository. Feel free to reach out if you have any questions or need additional information.
-
+- **Priority-Based Service:** Analysis of how tasks or requests are processed based on assigned priority levels, enabling differentiation in service rates.
+- **Performance Metrics:** 
+  - Calculation of metrics such as weighted average response time, throughput, and utilization for tasks with different priorities.
+  - Probability distribution of customers in the system based on priority classes.
+- **Theoretical Evaluation:** 
+  - Derivation of performance equations for systems with multiple priority levels.
+  - Impact of priority differentiation on overall system performance and fairness.
 
 
 
