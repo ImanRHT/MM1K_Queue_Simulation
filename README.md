@@ -64,7 +64,7 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
 - [FCFS_Simulation.py](FCFS_ServiceOrder/FCFS_Simulation.py): FCFS Service Order 
 
 
-- [PS_Simulation.py](PS_Simulation.py): Processor Sharing Service Order 
+- [PS_Simulation.py](RoundRobin_Scheduling/PS_Simulation.py): Processor Sharing Service Order 
 
 
 - [DPS_Simulation.py](DPS_Simulation.py): Discriminatory Processor Sharing Service Order 
@@ -74,7 +74,7 @@ Evaluation Results for M/M/1/12 Queue with Exponential and Fixed Theta under dif
 
  - [FCFS_K12_thetaExp_10M](FCFS_ServiceOrder/FCFS_K12_thetaExp_10M.xlsx) , [FCFS_K12_thetaFixed_10M](FCFS_ServiceOrder/FCFS_K12_thetaFixed_10M.xlsx), [FCFS_K12_thetaExp_300M](FCFS_ServiceOrder/FCFS_K12_thetaExp_300M.xlsx) , [FCFS_K12_thetaFixed_300M](FCFS_ServiceOrder/FCFS_K12_thetaFixed_300M.xlsx)
  
-  - [PS_K12_thetaExp_10M](PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](PS_K12_thetaFixed_10M.xlsx),  [PS_K12_thetaExp_100M](PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](PS_K12_thetaFixedFixed_100M.xlsx)
+  - [PS_K12_thetaExp_10M](RoundRobin_Scheduling/PS_K12_thetaExp_10M.xlsx)  , [PS_K12_thetaFixed_10M](RoundRobin_Scheduling/PS_K12_thetaFixed_10M.xlsx),  [PS_K12_thetaExp_100M](RoundRobin_Scheduling/PS_K12_thetaExp_100M.xlsx)  , [PS_K12_thetaFixedFixed_100M](RoundRobin_Scheduling/PS_K12_thetaFixedFixed_100M.xlsx)
   
    - [DPS_K12_thetaExp_1M](DPS_K12_thetaExp_1M.xlsx) , [DPS_K12_thetaFixed_1M](DPS_K12_thetaFixed_1M.xlsx),  [DPS_K12_thetaExp_10M](DPS_K12_thetaExp_10M.xlsx)
   
