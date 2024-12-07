@@ -1,7 +1,7 @@
 
 # ComputerPerformanceEvaluation
 Instructed by Prof. Ali Movaghar from the Department of Computer Engineering, Sharif University of Technology.
-Course material: 
+
 
 
 
