@@ -3,9 +3,9 @@
 Instructed by Prof. Ali Movaghar from the Department of Computer Engineering, Sharif University of Technology.
 Course material: 
 
+
+
 ## M/M/1/K Queue Performance Analysis
-
-
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/ImanRht/MM1K_Queue_Simulation)](https://github.com/ImanRht/MM1K_Queue_Simulation/releases)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ImanRht/MM1K_Queue_Simulation)
@@ -15,6 +15,48 @@ Course material:
 [![GitHub license](https://img.shields.io/github/license/ImanRht/MM1K_Queue_Simulation?style=social)](https://github.com/ImanRht/MM1K_Queue_Simulation/blob/master/LICENSE) 
 
 This repository contains a simulation of the M/M/1/K queue model, a classic queuing theory concept commonly used in the analysis of computer systems and network performance. These simulations are designed to analyze the performance of these queues under different scenarios.
+
+
+**Parameters:**
+- **Service Rate (μ):** The rate at which the service is provided.
+- **Arrival Rate (λ):** The rate at which arrivals occur.
+- **Queue Capacity (K):** Set to 14.
+
+**Key Aspects Covered:**
+- **Performance Metrics:** Calculation of the probability of having `n` customers in the system (`P_n`), average number of customers in the system (`N_c`), and probabilities of blocking (`P_b`) and dropping (`P_d`).
+- **Simulation Results:** Results showing the impact of varying parameters on system performance.
+- **Formulas Used:**
+  - `P_n(λ, μ)` for the probability of `n` customers.
+  - `N_c` for the average number of customers.
+  - Calculation of `P_b` and `P_d` using the provided formulas.
+- **Analysis:** Discussion on the impact of different parameters on system performance.
+
+## Round Robin Scheduling 
+
+**Description:**  
+This homework involves the analysis of the Round Robin scheduling algorithm within a queue system. It focuses on understanding how the Round Robin mechanism affects performance.
+
+**Key Aspects Covered:**
+- **Round Robin Scheduling:** Examination of the algorithm's performance in managing queues.
+- **Performance Metrics:** Analysis of average wait time and throughput under different configurations.
+- **Theoretical Evaluation:**
+  - Calculation of performance metrics with given parameters (μ and θ).
+  - Breakdown of theoretical results and their implications.
+  - Evaluation of the impact of different time slices and system configurations.
+
+## Theoretical Analysis
+ involves detailed questions and answers related to queue systems. It aims to test understanding of queueing theory concepts and their applications.
+
+**Key Aspects Covered:**
+- **Theoretical Questions:** A set of questions designed to explore various aspects of queueing theory.
+- **Solutions:** Detailed answers and explanations for each question, providing insights into the theoretical aspects of queue systems.
+
+---
+
+For further details on each homework, please refer to the corresponding files in this repository. Feel free to reach out if you have any questions or need additional information.
+
+
+
 
 ## Contents
 
