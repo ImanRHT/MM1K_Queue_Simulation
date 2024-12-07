@@ -16,12 +16,16 @@ Course material:
 
 This repository contains a simulation of the M/M/1/K queue model, a classic queuing theory concept commonly used in the analysis of computer systems and network performance. These simulations are designed to analyze the performance of these queues under different scenarios.
 
-## FCFS Service Order 
+
 
 **Parameters:**
 - **Service Rate (μ):** The rate at which the service is provided.
 - **Arrival Rate (λ):** The rate at which arrivals occur.
 - **Queue Capacity (K):** Set to 14.
+
+
+
+## FCFS Service Order
 
 **Key Aspects Covered:**
 - **Performance Metrics:** Calculation of the probability of having `n` customers in the system (`P_n`), average number of customers in the system (`N_c`), and probabilities of blocking (`P_b`) and dropping (`P_d`).
