@@ -16,6 +16,7 @@ Course material:
 
 This repository contains a simulation of the M/M/1/K queue model, a classic queuing theory concept commonly used in the analysis of computer systems and network performance. These simulations are designed to analyze the performance of these queues under different scenarios.
 
+## FCFS Service Order 
 
 **Parameters:**
 - **Service Rate (μ):** The rate at which the service is provided.
@@ -31,7 +32,7 @@ This repository contains a simulation of the M/M/1/K queue model, a classic queu
   - Calculation of `P_b` and `P_d` using the provided formulas.
 - **Analysis:** Discussion on the impact of different parameters on system performance.
 
-## Round Robin Scheduling 
+## Processor Sharing Service Order (Round Robin Scheduling)
 
 **Description:**  
 This homework involves the analysis of the Round Robin scheduling algorithm within a queue system. It focuses on understanding how the Round Robin mechanism affects performance.
@@ -43,6 +44,8 @@ This homework involves the analysis of the Round Robin scheduling algorithm with
   - Calculation of performance metrics with given parameters (μ and θ).
   - Breakdown of theoretical results and their implications.
   - Evaluation of the impact of different time slices and system configurations.
+ 
+## Discriminatory Processor Sharing Service Order 
 
 ## Theoretical Analysis
  involves detailed questions and answers related to queue systems. It aims to test understanding of queueing theory concepts and their applications.
